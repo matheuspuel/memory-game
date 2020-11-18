@@ -8,6 +8,7 @@ body {
     height: 100vh;
     display: flex;
     background-color: #1d3232;
+    overflow: hidden;
 }
 
 .game {
