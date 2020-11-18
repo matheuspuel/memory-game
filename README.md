@@ -4,4 +4,4 @@ Game developed in JavaScript for learning purposes based on the project [jogo-da
 
 ### Live Demo
 
-Check the result hosted on [https://matheuspuel.github.io/memory-game](https://matheuspuel.github.io/memory-game).
+Check the result hosted on [https://matheuspuel.github.io/memory-game/](https://matheuspuel.github.io/memory-game/).
