@@ -77,8 +77,12 @@ function restartGame() {
     card.classList.remove('flipped')
   })
 
-  shuffleCards()
-  resetBoard()
+  // wait for the end of the transition
+  setTimeout(() => {
+    shuffleCards()
+    resetBoard()
+  }, 1000)
+
 }
 
 restartGame()
